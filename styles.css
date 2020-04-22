@@ -156,7 +156,7 @@ p.news a {
 /* diagram */
 
 div.diagram {
-  background-image: url("nyt-bw.png");
+  background-image: url("pictures/nyt-bw.png");
   background-size: cover;
   background-position: center;
   display: grid;
